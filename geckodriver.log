@@ -1,0 +1,949 @@
+1576838544686	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile1Xt8kC"
+1576838545276	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1576838545276	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1576838545276	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1576838545276	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1576838546667	Marionette	INFO	Listening on port 44389
+1576838546694	Marionette	WARN	TLS certificate errors will be ignored for this session
+1576838550678	Marionette	INFO	Stopped listening on port 44389
+1576838722357	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile70HxD0"
+1576838722681	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1576838722681	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1576838722681	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1576838722681	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1576838723931	Marionette	INFO	Listening on port 39789
+1576838723963	Marionette	WARN	TLS certificate errors will be ignored for this session
+1576838728391	Marionette	INFO	Stopped listening on port 39789
+1576838844018	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilejBNIPZ"
+1576838844339	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1576838844339	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1576838844339	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1576838844339	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1576838845574	Marionette	INFO	Listening on port 39285
+1576838845623	Marionette	WARN	TLS certificate errors will be ignored for this session
+1576838850000	Marionette	INFO	Stopped listening on port 39285
+1576838883875	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilekzAecv"
+1576838884198	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1576838884198	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1576838884198	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1576838884198	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1576838885585	Marionette	INFO	Listening on port 37043
+1576838885744	Marionette	WARN	TLS certificate errors will be ignored for this session
+1576838890284	Marionette	INFO	Stopped listening on port 37043
+1576838976645	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilexuaO35"
+1576838977029	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1576838977029	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1576838977029	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1576838977029	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1576838978311	Marionette	INFO	Listening on port 45437
+1576838978352	Marionette	WARN	TLS certificate errors will be ignored for this session
+1576838983705	Marionette	INFO	Stopped listening on port 45437
+1576839012547	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile3QKsaD"
+1576839012869	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1576839012869	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1576839012869	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1576839012870	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1576839014276	Marionette	INFO	Listening on port 44625
+1576839014383	Marionette	WARN	TLS certificate errors will be ignored for this session
+1576839019926	Marionette	INFO	Stopped listening on port 44625
+1576839362404	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileuJS5wo"
+1576839362745	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1576839362746	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1576839362746	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1576839362746	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1576839364045	Marionette	INFO	Listening on port 44505
+1576839364112	Marionette	WARN	TLS certificate errors will be ignored for this session
+1576839370577	Marionette	INFO	Stopped listening on port 44505
+1576839470227	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileaDyQO8"
+1576839470543	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1576839470543	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1576839470543	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1576839470543	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1576839471894	Marionette	INFO	Listening on port 33363
+1576839471932	Marionette	WARN	TLS certificate errors will be ignored for this session
+1576839477637	Marionette	INFO	Stopped listening on port 33363
+1576839527248	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileVhVlGS"
+1576839527572	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1576839527572	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1576839527572	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1576839527572	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1576839528885	Marionette	INFO	Listening on port 46123
+1576839528957	Marionette	WARN	TLS certificate errors will be ignored for this session
+1576839533681	Marionette	INFO	Stopped listening on port 46123
+1576839568010	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileKfUWai"
+1576839568323	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1576839568323	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1576839568323	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1576839568323	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1576839569689	Marionette	INFO	Listening on port 37143
+1576839569722	Marionette	WARN	TLS certificate errors will be ignored for this session
+1576839574666	Marionette	INFO	Stopped listening on port 37143
+1576839640949	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileB2Jipq"
+1576839641275	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1576839641275	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1576839641275	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1576839641275	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1576839642597	Marionette	INFO	Listening on port 33259
+1576839642655	Marionette	WARN	TLS certificate errors will be ignored for this session
+1576839650757	Marionette	INFO	Stopped listening on port 33259
+1576839662961	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileRyuTT5"
+1576839663288	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1576839663288	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1576839663288	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1576839663288	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1576839664680	Marionette	INFO	Listening on port 36393
+1576839664769	Marionette	WARN	TLS certificate errors will be ignored for this session
+1576839675743	Marionette	INFO	Stopped listening on port 36393
+1576839723021	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilenTM5Ww"
+1576839723346	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1576839723347	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1576839723347	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1576839723347	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1576839724729	Marionette	INFO	Listening on port 45383
+1576839724828	Marionette	WARN	TLS certificate errors will be ignored for this session
+1576839733937	Marionette	INFO	Stopped listening on port 45383
+Exiting due to channel error.
+1576839740395	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileK7RUwF"
+1576839740717	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1576839740717	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1576839740718	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1576839740718	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1576839742059	Marionette	INFO	Listening on port 34991
+1576839742105	Marionette	WARN	TLS certificate errors will be ignored for this session
+1576839752737	Marionette	INFO	Stopped listening on port 34991
+1576839818225	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile4Ah5pi"
+1576839818547	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1576839818547	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1576839818547	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1576839818547	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1576839819880	Marionette	INFO	Listening on port 40881
+1576839819932	Marionette	WARN	TLS certificate errors will be ignored for this session
+1576839824702	Marionette	INFO	Stopped listening on port 40881
+1576839856705	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilediGJEV"
+1576839857036	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1576839857036	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1576839857037	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1576839857037	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1576839858241	Marionette	INFO	Listening on port 40301
+1576839858310	Marionette	WARN	TLS certificate errors will be ignored for this session
+1576839863275	Marionette	INFO	Stopped listening on port 40301
+1576840063093	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilevZnWse"
+1576840063416	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1576840063416	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1576840063416	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1576840063416	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1576840064757	Marionette	INFO	Listening on port 35037
+1576840064803	Marionette	WARN	TLS certificate errors will be ignored for this session
+1576840074817	Marionette	INFO	Stopped listening on port 35037
+1576840080961	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilecWqQCv"
+1576840081289	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1576840081289	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1576840081289	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1576840081289	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1576840082610	Marionette	INFO	Listening on port 40247
+1576840082668	Marionette	WARN	TLS certificate errors will be ignored for this session
+1576840093162	Marionette	INFO	Stopped listening on port 40247
+1576840103770	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiles4S7QV"
+1576840104094	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1576840104094	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1576840104094	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1576840104094	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1576840105525	Marionette	INFO	Listening on port 34169
+1576840105579	Marionette	WARN	TLS certificate errors will be ignored for this session
+1576840114903	Marionette	INFO	Stopped listening on port 34169
+1576840314701	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileesUfIQ"
+1576840315021	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1576840315021	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1576840315022	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1576840315022	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1576840316325	Marionette	INFO	Listening on port 38917
+1576840316411	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://a2oj.com/jquery.autocomplete.js, line 460: unreachable code after return statement
+1576840333315	Marionette	INFO	Stopped listening on port 38917
+1576840580897	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilePAhYyn"
+1576840581228	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1576840581228	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1576840581229	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1576840581229	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1576840582564	Marionette	INFO	Listening on port 40801
+1576840582605	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://a2oj.com/jquery.autocomplete.js, line 460: unreachable code after return statement
+1576840598130	Marionette	INFO	Stopped listening on port 40801
+1576840625727	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiledk0Bfy"
+1576840626038	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1576840626038	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1576840626039	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1576840626039	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1576840627473	Marionette	INFO	Listening on port 39983
+1576840627533	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://a2oj.com/jquery.autocomplete.js, line 460: unreachable code after return statement
+1576840642329	Marionette	INFO	Stopped listening on port 39983
+1576840741624	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileHBU6VI"
+1576840741947	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1576840741947	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1576840741947	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1576840741947	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1576840743251	Marionette	INFO	Listening on port 36019
+1576840743333	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1576840752576	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileyCGI9n"
+1576840752904	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1576840752904	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1576840752904	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1576840752904	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1576840754203	Marionette	INFO	Listening on port 43559
+1576840754286	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://a2oj.com/jquery.tablesorter.js, line 852: ReferenceError: jQuery is not defined
+JavaScript error: https://a2oj.com/ladder?ID=11, line 136: ReferenceError: $ is not defined
+JavaScript warning: https://a2oj.com/jquery.autocomplete.js, line 460: unreachable code after return statement
+JavaScript error: https://a2oj.com/jquery.tablesorter.js, line 852: ReferenceError: jQuery is not defined
+JavaScript error: https://a2oj.com/ladder?ID=12, line 136: ReferenceError: $ is not defined
+JavaScript warning: https://a2oj.com/jquery.autocomplete.js, line 460: unreachable code after return statement
+JavaScript error: https://a2oj.com/jquery.tablesorter.js, line 852: ReferenceError: jQuery is not defined
+JavaScript error: https://a2oj.com/ladder?ID=13, line 136: ReferenceError: $ is not defined
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+1576841791640	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilelbH5U0"
+1576841791953	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1576841791953	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1576841791953	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1576841791953	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1576841793276	Marionette	INFO	Listening on port 43785
+1576841793347	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://a2oj.com/jquery.tablesorter.js, line 852: ReferenceError: jQuery is not defined
+JavaScript error: https://a2oj.com/ladder?ID=11, line 136: ReferenceError: $ is not defined
+JavaScript warning: https://a2oj.com/jquery.autocomplete.js, line 460: unreachable code after return statement
+JavaScript error: https://a2oj.com/jquery.tablesorter.js, line 852: ReferenceError: jQuery is not defined
+JavaScript error: https://a2oj.com/ladder?ID=12, line 136: ReferenceError: $ is not defined
+JavaScript warning: https://a2oj.com/jquery.autocomplete.js, line 460: unreachable code after return statement
+JavaScript error: https://a2oj.com/jquery.tablesorter.js, line 852: ReferenceError: jQuery is not defined
+JavaScript error: https://a2oj.com/ladder?ID=13, line 136: ReferenceError: $ is not defined
+JavaScript warning: https://a2oj.com/jquery.autocomplete.js, line 460: unreachable code after return statement
+JavaScript error: https://a2oj.com/jquery.tablesorter.js, line 852: ReferenceError: jQuery is not defined
+JavaScript error: https://a2oj.com/ladder?ID=14, line 136: ReferenceError: $ is not defined
+Exiting due to channel error.
+Exiting due to channel error.
+[Child 27873, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-hE9N0Y/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+Exiting due to channel error.
+1576841845877	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile5kRyFf"
+1576841846214	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1576841846214	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1576841846214	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1576841846215	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1576841847448	Marionette	INFO	Listening on port 43883
+1576841847484	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://a2oj.com/jquery.autocomplete.js, line 460: unreachable code after return statement
+JavaScript error: https://a2oj.com/jquery.tablesorter.js, line 852: ReferenceError: jQuery is not defined
+JavaScript error: https://a2oj.com/ladder?ID=11, line 136: ReferenceError: $ is not defined
+JavaScript warning: https://a2oj.com/jquery.autocomplete.js, line 460: unreachable code after return statement
+1576841859018	Marionette	INFO	Stopped listening on port 43883
+1576841935323	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileX8H6zk"
+1576841935700	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1576841935701	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1576841935701	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1576841935701	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1576841937165	Marionette	INFO	Listening on port 42261
+1576841937249	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://a2oj.com/jquery.autocomplete.js, line 460: unreachable code after return statement
+JavaScript error: https://a2oj.com/jquery.tablesorter.js, line 852: ReferenceError: jQuery is not defined
+JavaScript error: https://a2oj.com/ladder?ID=11, line 136: ReferenceError: $ is not defined
+JavaScript warning: https://a2oj.com/jquery.autocomplete.js, line 460: unreachable code after return statement
+1576841949396	Marionette	INFO	Stopped listening on port 42261
+1576841991981	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileZj3rt1"
+1576841992309	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1576841992309	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1576841992309	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1576841992309	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1576841993571	Marionette	INFO	Listening on port 41161
+1576841993586	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://a2oj.com/jquery.autocomplete.js, line 460: unreachable code after return statement
+JavaScript error: https://a2oj.com/jquery.tablesorter.js, line 852: ReferenceError: jQuery is not defined
+JavaScript error: https://a2oj.com/ladder?ID=11, line 136: ReferenceError: $ is not defined
+JavaScript warning: https://a2oj.com/jquery.autocomplete.js, line 460: unreachable code after return statement
+JavaScript error: https://a2oj.com/jquery.tablesorter.js, line 852: ReferenceError: jQuery is not defined
+JavaScript error: https://a2oj.com/ladder?ID=12, line 136: ReferenceError: $ is not defined
+JavaScript warning: https://a2oj.com/jquery.autocomplete.js, line 460: unreachable code after return statement
+JavaScript error: https://a2oj.com/jquery.tablesorter.js, line 852: ReferenceError: jQuery is not defined
+JavaScript error: https://a2oj.com/ladder?ID=13, line 136: ReferenceError: $ is not defined
+JavaScript warning: https://a2oj.com/jquery.autocomplete.js, line 460: unreachable code after return statement
+JavaScript error: https://a2oj.com/jquery.tablesorter.js, line 852: ReferenceError: jQuery is not defined
+JavaScript error: https://a2oj.com/ladder?ID=14, line 136: ReferenceError: $ is not defined
+JavaScript error: https://a2oj.com/jquery.tablesorter.js, line 852: ReferenceError: jQuery is not defined
+JavaScript error: https://a2oj.com/ladder?ID=15, line 136: ReferenceError: $ is not defined
+JavaScript error: https://a2oj.com/jquery.tablesorter.js, line 852: ReferenceError: jQuery is not defined
+JavaScript error: https://a2oj.com/ladder?ID=16, line 136: ReferenceError: $ is not defined
+JavaScript error: https://a2oj.com/jquery.tablesorter.js, line 852: ReferenceError: jQuery is not defined
+JavaScript error: https://a2oj.com/ladder?ID=17, line 136: ReferenceError: $ is not defined
+JavaScript error: https://a2oj.com/jquery.tablesorter.js, line 852: ReferenceError: jQuery is not defined
+JavaScript error: https://a2oj.com/ladder?ID=18, line 136: ReferenceError: $ is not defined
+JavaScript error: https://a2oj.com/jquery.tablesorter.js, line 852: ReferenceError: jQuery is not defined
+JavaScript error: https://a2oj.com/ladder?ID=19, line 136: ReferenceError: $ is not defined
+JavaScript error: https://a2oj.com/jquery.tablesorter.js, line 852: ReferenceError: jQuery is not defined
+JavaScript error: https://a2oj.com/ladder?ID=20, line 136: ReferenceError: $ is not defined
+JavaScript error: https://a2oj.com/jquery.tablesorter.js, line 852: ReferenceError: jQuery is not defined
+JavaScript error: https://a2oj.com/ladder?ID=21, line 136: ReferenceError: $ is not defined
+JavaScript error: https://a2oj.com/jquery.tablesorter.js, line 852: ReferenceError: jQuery is not defined
+JavaScript error: https://a2oj.com/ladder?ID=22, line 136: ReferenceError: $ is not defined
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1576842052731	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilej6LCrm"
+1576842053042	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1576842053042	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1576842053042	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1576842053042	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1576842054569	Marionette	INFO	Listening on port 45711
+1576842054637	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://a2oj.com/jquery.autocomplete.js, line 460: unreachable code after return statement
+JavaScript error: https://a2oj.com/jquery.tablesorter.js, line 852: ReferenceError: jQuery is not defined
+JavaScript error: https://a2oj.com/ladder?ID=11, line 136: ReferenceError: $ is not defined
+JavaScript warning: https://a2oj.com/jquery.autocomplete.js, line 460: unreachable code after return statement
+1576842066415	Marionette	INFO	Stopped listening on port 45711
+1576842100650	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile0mKx5Y"
+1576842100978	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1576842100978	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1576842100978	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1576842100978	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1576842102372	Marionette	INFO	Listening on port 45805
+1576842102468	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://a2oj.com/jquery.autocomplete.js, line 460: unreachable code after return statement
+JavaScript error: https://a2oj.com/jquery.tablesorter.js, line 852: ReferenceError: jQuery is not defined
+JavaScript error: https://a2oj.com/ladder?ID=11, line 136: ReferenceError: $ is not defined
+JavaScript warning: https://a2oj.com/jquery.autocomplete.js, line 460: unreachable code after return statement
+1576842114043	Marionette	INFO	Stopped listening on port 45805
+1576842276956	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileVVDdJB"
+1576842277277	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1576842277278	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1576842277278	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1576842277278	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1576842278591	Marionette	INFO	Listening on port 34035
+1576842278664	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://a2oj.com/jquery.tablesorter.js, line 852: ReferenceError: jQuery is not defined
+JavaScript error: https://a2oj.com/ladder?ID=11, line 136: ReferenceError: $ is not defined
+JavaScript warning: https://a2oj.com/jquery.autocomplete.js, line 460: unreachable code after return statement
+JavaScript error: https://a2oj.com/jquery.tablesorter.js, line 852: ReferenceError: jQuery is not defined
+JavaScript error: https://a2oj.com/ladder?ID=12, line 136: ReferenceError: $ is not defined
+JavaScript warning: https://a2oj.com/jquery.autocomplete.js, line 460: unreachable code after return statement
+JavaScript error: https://a2oj.com/jquery.tablesorter.js, line 852: ReferenceError: jQuery is not defined
+JavaScript error: https://a2oj.com/ladder?ID=13, line 136: ReferenceError: $ is not defined
+JavaScript warning: https://a2oj.com/jquery.autocomplete.js, line 460: unreachable code after return statement
+JavaScript error: https://a2oj.com/jquery.tablesorter.js, line 852: ReferenceError: jQuery is not defined
+JavaScript error: https://a2oj.com/ladder?ID=14, line 136: ReferenceError: $ is not defined
+JavaScript warning: https://a2oj.com/jquery.autocomplete.js, line 460: unreachable code after return statement
+JavaScript error: https://a2oj.com/jquery.tablesorter.js, line 852: ReferenceError: jQuery is not defined
+JavaScript error: https://a2oj.com/ladder?ID=15, line 136: ReferenceError: $ is not defined
+JavaScript warning: https://a2oj.com/jquery.autocomplete.js, line 460: unreachable code after return statement
+JavaScript error: https://a2oj.com/jquery.tablesorter.js, line 852: ReferenceError: jQuery is not defined
+JavaScript error: https://a2oj.com/ladder?ID=16, line 136: ReferenceError: $ is not defined
+JavaScript warning: https://a2oj.com/jquery.autocomplete.js, line 460: unreachable code after return statement
+JavaScript error: https://a2oj.com/jquery.tablesorter.js, line 852: ReferenceError: jQuery is not defined
+JavaScript error: https://a2oj.com/ladder?ID=17, line 136: ReferenceError: $ is not defined
+JavaScript warning: https://a2oj.com/jquery.autocomplete.js, line 460: unreachable code after return statement
+JavaScript error: https://a2oj.com/jquery.tablesorter.js, line 852: ReferenceError: jQuery is not defined
+JavaScript error: https://a2oj.com/ladder?ID=18, line 136: ReferenceError: $ is not defined
+JavaScript warning: https://a2oj.com/jquery.autocomplete.js, line 460: unreachable code after return statement
+JavaScript error: https://a2oj.com/jquery.tablesorter.js, line 852: ReferenceError: jQuery is not defined
+JavaScript error: https://a2oj.com/ladder?ID=19, line 136: ReferenceError: $ is not defined
+JavaScript warning: https://a2oj.com/jquery.autocomplete.js, line 460: unreachable code after return statement
+JavaScript error: https://a2oj.com/jquery.tablesorter.js, line 852: ReferenceError: jQuery is not defined
+JavaScript error: https://a2oj.com/ladder?ID=20, line 136: ReferenceError: $ is not defined
+JavaScript warning: https://a2oj.com/jquery.autocomplete.js, line 460: unreachable code after return statement
+JavaScript error: https://a2oj.com/jquery.tablesorter.js, line 852: ReferenceError: jQuery is not defined
+JavaScript error: https://a2oj.com/ladder?ID=21, line 136: ReferenceError: $ is not defined
+JavaScript warning: https://a2oj.com/jquery.autocomplete.js, line 460: unreachable code after return statement
+JavaScript error: https://a2oj.com/jquery.tablesorter.js, line 852: ReferenceError: jQuery is not defined
+JavaScript error: https://a2oj.com/ladder?ID=22, line 136: ReferenceError: $ is not defined
+JavaScript warning: https://a2oj.com/jquery.autocomplete.js, line 460: unreachable code after return statement
+JavaScript error: https://a2oj.com/jquery.tablesorter.js, line 852: ReferenceError: jQuery is not defined
+JavaScript error: https://a2oj.com/ladder?ID=23, line 136: ReferenceError: $ is not defined
+JavaScript warning: https://a2oj.com/jquery.autocomplete.js, line 460: unreachable code after return statement
+JavaScript error: https://a2oj.com/jquery.tablesorter.js, line 852: ReferenceError: jQuery is not defined
+JavaScript error: https://a2oj.com/ladder?ID=24, line 136: ReferenceError: $ is not defined
+JavaScript warning: https://a2oj.com/jquery.autocomplete.js, line 460: unreachable code after return statement
+JavaScript error: https://a2oj.com/jquery.tablesorter.js, line 852: ReferenceError: jQuery is not defined
+JavaScript error: https://a2oj.com/ladder?ID=25, line 136: ReferenceError: $ is not defined
+JavaScript warning: https://a2oj.com/jquery.autocomplete.js, line 460: unreachable code after return statement
+JavaScript error: https://a2oj.com/jquery.tablesorter.js, line 852: ReferenceError: jQuery is not defined
+JavaScript error: https://a2oj.com/ladder?ID=26, line 136: ReferenceError: $ is not defined
+JavaScript warning: https://a2oj.com/jquery.autocomplete.js, line 460: unreachable code after return statement
+JavaScript error: https://a2oj.com/jquery.tablesorter.js, line 852: ReferenceError: jQuery is not defined
+JavaScript error: https://a2oj.com/ladder?ID=27, line 136: ReferenceError: $ is not defined
+JavaScript warning: https://a2oj.com/jquery.autocomplete.js, line 460: unreachable code after return statement
+JavaScript error: https://a2oj.com/jquery.tablesorter.js, line 852: ReferenceError: jQuery is not defined
+JavaScript error: https://a2oj.com/ladder?ID=28, line 136: ReferenceError: $ is not defined
+JavaScript warning: https://a2oj.com/jquery.autocomplete.js, line 460: unreachable code after return statement
+JavaScript error: https://a2oj.com/jquery.tablesorter.js, line 852: ReferenceError: jQuery is not defined
+JavaScript error: https://a2oj.com/ladder?ID=29, line 136: ReferenceError: $ is not defined
+JavaScript warning: https://a2oj.com/jquery.autocomplete.js, line 460: unreachable code after return statement
+JavaScript error: https://a2oj.com/jquery.tablesorter.js, line 852: ReferenceError: jQuery is not defined
+JavaScript error: https://a2oj.com/ladder?ID=30, line 136: ReferenceError: $ is not defined
+JavaScript warning: https://a2oj.com/jquery.autocomplete.js, line 460: unreachable code after return statement
+JavaScript error: https://a2oj.com/jquery.tablesorter.js, line 852: ReferenceError: jQuery is not defined
+JavaScript error: https://a2oj.com/ladder?ID=31, line 136: ReferenceError: $ is not defined
+JavaScript warning: https://a2oj.com/jquery.autocomplete.js, line 460: unreachable code after return statement
+JavaScript error: https://a2oj.com/jquery.tablesorter.js, line 852: ReferenceError: jQuery is not defined
+JavaScript error: https://a2oj.com/ladder?ID=32, line 136: ReferenceError: $ is not defined
+JavaScript warning: https://a2oj.com/jquery.autocomplete.js, line 460: unreachable code after return statement
+1576842358757	Marionette	INFO	Stopped listening on port 34035
+[Parent 29307, Gecko_IOThread] WARNING: pipe error (76): Connection reset by peer: file /build/firefox-hE9N0Y/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+1576843377679	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiledXx4bw"
+1576843377996	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1576843377996	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1576843377996	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1576843377996	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1576843379234	Marionette	INFO	Listening on port 34089
+1576843379285	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://a2oj.com/jquery.autocomplete.js, line 460: unreachable code after return statement
+JavaScript error: https://a2oj.com/jquery.tablesorter.js, line 852: ReferenceError: jQuery is not defined
+JavaScript error: https://a2oj.com/ladder?ID=11, line 136: ReferenceError: $ is not defined
+JavaScript warning: https://a2oj.com/jquery.autocomplete.js, line 460: unreachable code after return statement
+1576843391866	Marionette	INFO	Stopped listening on port 34089
+1576843420800	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilemOWUV3"
+1576843421114	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1576843421114	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1576843421115	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1576843421115	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1576843422396	Marionette	INFO	Listening on port 45597
+1576843422407	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://a2oj.com/jquery.autocomplete.js, line 460: unreachable code after return statement
+JavaScript error: https://a2oj.com/jquery.tablesorter.js, line 852: ReferenceError: jQuery is not defined
+JavaScript error: https://a2oj.com/ladder?ID=11, line 136: ReferenceError: $ is not defined
+JavaScript warning: https://a2oj.com/jquery.autocomplete.js, line 460: unreachable code after return statement
+JavaScript error: https://a2oj.com/jquery.tablesorter.js, line 852: ReferenceError: jQuery is not defined
+JavaScript error: https://a2oj.com/ladder?ID=12, line 136: ReferenceError: $ is not defined
+JavaScript warning: https://a2oj.com/jquery.autocomplete.js, line 460: unreachable code after return statement
+JavaScript error: https://a2oj.com/jquery.tablesorter.js, line 852: ReferenceError: jQuery is not defined
+JavaScript error: https://a2oj.com/ladder?ID=13, line 136: ReferenceError: $ is not defined
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1576843686135	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilej2zuWL"
+1576843686444	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1576843686444	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1576843686444	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1576843686444	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1576843687757	Marionette	INFO	Listening on port 37251
+1576843687847	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://a2oj.com/jquery.autocomplete.js, line 460: unreachable code after return statement
+JavaScript error: https://a2oj.com/jquery.tablesorter.js, line 852: ReferenceError: jQuery is not defined
+JavaScript error: https://a2oj.com/ladder?ID=11, line 136: ReferenceError: $ is not defined
+JavaScript warning: https://a2oj.com/jquery.autocomplete.js, line 460: unreachable code after return statement
+1576843699777	Marionette	INFO	Stopped listening on port 37251
+1576844436353	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileYPEJw4"
+1576844436681	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1576844436681	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1576844436681	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1576844436682	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1576844437930	Marionette	INFO	Listening on port 38301
+1576844437958	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://a2oj.com/jquery.autocomplete.js, line 460: unreachable code after return statement
+JavaScript error: https://a2oj.com/jquery.tablesorter.js, line 852: ReferenceError: jQuery is not defined
+JavaScript error: https://a2oj.com/ladder?ID=11, line 136: ReferenceError: $ is not defined
+JavaScript warning: https://a2oj.com/jquery.autocomplete.js, line 460: unreachable code after return statement
+1576844450458	Marionette	INFO	Stopped listening on port 38301
+1576845507689	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilenSO924"
+1576845508021	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1576845508021	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1576845508021	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1576845508021	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1576845509236	Marionette	INFO	Listening on port 41845
+1576845509295	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://a2oj.com/jquery.tablesorter.js, line 852: ReferenceError: jQuery is not defined
+JavaScript error: https://a2oj.com/ladder?ID=11, line 136: ReferenceError: $ is not defined
+JavaScript warning: https://a2oj.com/jquery.autocomplete.js, line 460: unreachable code after return statement
+1576845523146	Marionette	INFO	Stopped listening on port 41845
+1576845552783	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileJPA94t"
+1576845553131	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1576845553132	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1576845553132	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1576845553132	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1576845554556	Marionette	INFO	Listening on port 40055
+1576845554603	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://a2oj.com/jquery.autocomplete.js, line 460: unreachable code after return statement
+JavaScript error: https://a2oj.com/jquery.tablesorter.js, line 852: ReferenceError: jQuery is not defined
+JavaScript error: https://a2oj.com/ladder?ID=11, line 136: ReferenceError: $ is not defined
+JavaScript warning: https://a2oj.com/jquery.autocomplete.js, line 460: unreachable code after return statement
+1576845567111	Marionette	INFO	Stopped listening on port 40055
+1576845596030	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileePspZH"
+1576845596369	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1576845596369	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1576845596369	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1576845596370	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1576845597722	Marionette	INFO	Listening on port 41129
+1576845597736	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://a2oj.com/jquery.autocomplete.js, line 460: unreachable code after return statement
+JavaScript error: https://a2oj.com/jquery.tablesorter.js, line 852: ReferenceError: jQuery is not defined
+JavaScript error: https://a2oj.com/ladder?ID=11, line 136: ReferenceError: $ is not defined
+JavaScript warning: https://a2oj.com/jquery.autocomplete.js, line 460: unreachable code after return statement
+1576845609716	Marionette	INFO	Stopped listening on port 41129
+1576845789773	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileM2kFh4"
+1576845790099	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1576845790100	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1576845790100	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1576845790100	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1576845791477	Marionette	INFO	Listening on port 34069
+1576845791631	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://a2oj.com/jquery.autocomplete.js, line 460: unreachable code after return statement
+JavaScript error: https://a2oj.com/jquery.tablesorter.js, line 852: ReferenceError: jQuery is not defined
+JavaScript error: https://a2oj.com/ladder?ID=11, line 136: ReferenceError: $ is not defined
+JavaScript warning: https://a2oj.com/jquery.autocomplete.js, line 460: unreachable code after return statement
+1576845803579	Marionette	INFO	Stopped listening on port 34069
+1576845967855	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiledYLkCb"
+1576845968179	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1576845968180	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1576845968180	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1576845968180	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1576845969533	Marionette	INFO	Listening on port 39805
+1576845969560	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://a2oj.com/jquery.autocomplete.js, line 460: unreachable code after return statement
+JavaScript error: https://a2oj.com/jquery.tablesorter.js, line 852: ReferenceError: jQuery is not defined
+JavaScript error: https://a2oj.com/ladder?ID=11, line 136: ReferenceError: $ is not defined
+JavaScript warning: https://a2oj.com/jquery.autocomplete.js, line 460: unreachable code after return statement
+1576845982687	Marionette	INFO	Stopped listening on port 39805
+1576846028844	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile9TG28M"
+1576846029169	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1576846029169	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1576846029169	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1576846029169	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1576846030568	Marionette	INFO	Listening on port 41813
+1576846030653	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://a2oj.com/jquery.autocomplete.js, line 460: unreachable code after return statement
+JavaScript error: https://a2oj.com/jquery.tablesorter.js, line 852: ReferenceError: jQuery is not defined
+JavaScript error: https://a2oj.com/ladder?ID=11, line 136: ReferenceError: $ is not defined
+JavaScript warning: https://a2oj.com/jquery.autocomplete.js, line 460: unreachable code after return statement
+JavaScript error: https://a2oj.com/jquery.tablesorter.js, line 852: ReferenceError: jQuery is not defined
+JavaScript error: https://a2oj.com/ladder?ID=12, line 136: ReferenceError: $ is not defined
+JavaScript warning: https://a2oj.com/jquery.autocomplete.js, line 460: unreachable code after return statement
+JavaScript error: https://a2oj.com/jquery.tablesorter.js, line 852: ReferenceError: jQuery is not defined
+JavaScript error: https://a2oj.com/ladder?ID=13, line 136: ReferenceError: $ is not defined
+JavaScript warning: https://a2oj.com/jquery.autocomplete.js, line 460: unreachable code after return statement
+JavaScript error: https://a2oj.com/jquery.tablesorter.js, line 852: ReferenceError: jQuery is not defined
+JavaScript error: https://a2oj.com/ladder?ID=14, line 136: ReferenceError: $ is not defined
+JavaScript error: https://a2oj.com/jquery.tablesorter.js, line 852: ReferenceError: jQuery is not defined
+JavaScript error: https://a2oj.com/ladder?ID=15, line 136: ReferenceError: $ is not defined
+JavaScript error: https://a2oj.com/jquery.tablesorter.js, line 852: ReferenceError: jQuery is not defined
+JavaScript error: https://a2oj.com/ladder?ID=16, line 136: ReferenceError: $ is not defined
+JavaScript error: https://a2oj.com/jquery.tablesorter.js, line 852: ReferenceError: jQuery is not defined
+JavaScript error: https://a2oj.com/ladder?ID=17, line 136: ReferenceError: $ is not defined
+JavaScript error: https://a2oj.com/jquery.tablesorter.js, line 852: ReferenceError: jQuery is not defined
+JavaScript error: https://a2oj.com/ladder?ID=18, line 136: ReferenceError: $ is not defined
+JavaScript error: https://a2oj.com/jquery.tablesorter.js, line 852: ReferenceError: jQuery is not defined
+JavaScript error: https://a2oj.com/ladder?ID=19, line 136: ReferenceError: $ is not defined
+JavaScript error: https://a2oj.com/jquery.tablesorter.js, line 852: ReferenceError: jQuery is not defined
+JavaScript error: https://a2oj.com/ladder?ID=20, line 136: ReferenceError: $ is not defined
+JavaScript error: https://a2oj.com/jquery.tablesorter.js, line 852: ReferenceError: jQuery is not defined
+JavaScript error: https://a2oj.com/ladder?ID=21, line 136: ReferenceError: $ is not defined
+JavaScript error: https://a2oj.com/jquery.tablesorter.js, line 852: ReferenceError: jQuery is not defined
+JavaScript error: https://a2oj.com/ladder?ID=22, line 136: ReferenceError: $ is not defined
+JavaScript error: https://a2oj.com/jquery.tablesorter.js, line 852: ReferenceError: jQuery is not defined
+JavaScript error: https://a2oj.com/ladder?ID=23, line 136: ReferenceError: $ is not defined
+JavaScript error: https://a2oj.com/jquery.tablesorter.js, line 852: ReferenceError: jQuery is not defined
+JavaScript error: https://a2oj.com/ladder?ID=24, line 136: ReferenceError: $ is not defined
+JavaScript error: https://a2oj.com/jquery.tablesorter.js, line 852: ReferenceError: jQuery is not defined
+JavaScript error: https://a2oj.com/ladder?ID=25, line 136: ReferenceError: $ is not defined
+JavaScript error: https://a2oj.com/jquery.tablesorter.js, line 852: ReferenceError: jQuery is not defined
+JavaScript error: https://a2oj.com/ladder?ID=26, line 136: ReferenceError: $ is not defined
+JavaScript error: https://a2oj.com/jquery.tablesorter.js, line 852: ReferenceError: jQuery is not defined
+JavaScript error: https://a2oj.com/ladder?ID=27, line 136: ReferenceError: $ is not defined
+JavaScript error: https://a2oj.com/jquery.tablesorter.js, line 852: ReferenceError: jQuery is not defined
+JavaScript error: https://a2oj.com/ladder?ID=28, line 136: ReferenceError: $ is not defined
+JavaScript error: https://a2oj.com/jquery.tablesorter.js, line 852: ReferenceError: jQuery is not defined
+JavaScript error: https://a2oj.com/ladder?ID=29, line 136: ReferenceError: $ is not defined
+JavaScript error: https://a2oj.com/jquery.tablesorter.js, line 852: ReferenceError: jQuery is not defined
+JavaScript error: https://a2oj.com/ladder?ID=30, line 136: ReferenceError: $ is not defined
+JavaScript error: https://a2oj.com/jquery.tablesorter.js, line 852: ReferenceError: jQuery is not defined
+JavaScript error: https://a2oj.com/ladder?ID=31, line 136: ReferenceError: $ is not defined
+JavaScript error: https://a2oj.com/jquery.tablesorter.js, line 852: ReferenceError: jQuery is not defined
+JavaScript error: https://a2oj.com/ladder?ID=32, line 136: ReferenceError: $ is not defined
+Exiting due to channel error.
+[Child 1368, Chrome_ChildThread] WARNING: pipe error (31): Connection reset by peer: file /build/firefox-hE9N0Y/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+[Child 1368, Chrome_ChildThread] WARNING: pipe error (54): Connection reset by peer: file /build/firefox-hE9N0Y/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+[Child 1368, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-hE9N0Y/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+Exiting due to channel error.
+Exiting due to channel error.
+1576846300990	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile5Bsj91"
+1576846301321	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1576846301321	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1576846301321	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1576846301321	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1576846302696	Marionette	INFO	Listening on port 36891
+1576846302834	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://a2oj.com/jquery.autocomplete.js, line 460: unreachable code after return statement
+JavaScript error: https://a2oj.com/jquery.tablesorter.js, line 852: ReferenceError: jQuery is not defined
+JavaScript error: https://a2oj.com/ladder?ID=11, line 136: ReferenceError: $ is not defined
+JavaScript warning: https://a2oj.com/jquery.autocomplete.js, line 460: unreachable code after return statement
+1576846320765	Marionette	INFO	Stopped listening on port 36891
+1576846368578	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilet9vITT"
+1576846368909	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1576846368909	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1576846368909	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1576846368909	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1576846370336	Marionette	INFO	Listening on port 40157
+1576846370386	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://a2oj.com/jquery.tablesorter.js, line 852: ReferenceError: jQuery is not defined
+JavaScript error: https://a2oj.com/ladder?ID=11, line 136: ReferenceError: $ is not defined
+JavaScript warning: https://a2oj.com/jquery.autocomplete.js, line 460: unreachable code after return statement
+1576846389707	Marionette	INFO	Stopped listening on port 40157
+1576846430723	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileI8tRgR"
+1576846431081	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1576846431081	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1576846431082	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1576846431082	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1576846432382	Marionette	INFO	Listening on port 37385
+1576846432429	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://a2oj.com/jquery.tablesorter.js, line 852: ReferenceError: jQuery is not defined
+JavaScript error: https://a2oj.com/ladder?ID=11, line 136: ReferenceError: $ is not defined
+JavaScript warning: https://a2oj.com/jquery.autocomplete.js, line 460: unreachable code after return statement
+1576846456643	Marionette	INFO	Stopped listening on port 37385
+1576846600589	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileB5461v"
+1576846600913	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1576846600913	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1576846600913	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1576846600913	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1576846602274	Marionette	INFO	Listening on port 39037
+1576846602297	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://a2oj.com/jquery.tablesorter.js, line 852: ReferenceError: jQuery is not defined
+JavaScript error: https://a2oj.com/ladder?ID=11, line 136: ReferenceError: $ is not defined
+JavaScript warning: https://a2oj.com/jquery.autocomplete.js, line 460: unreachable code after return statement
+JavaScript error: https://a2oj.com/jquery.tablesorter.js, line 852: ReferenceError: jQuery is not defined
+JavaScript error: https://a2oj.com/ladder?ID=12, line 136: ReferenceError: $ is not defined
+JavaScript warning: https://a2oj.com/jquery.autocomplete.js, line 460: unreachable code after return statement
+JavaScript error: https://a2oj.com/jquery.tablesorter.js, line 852: ReferenceError: jQuery is not defined
+JavaScript error: https://a2oj.com/ladder?ID=13, line 136: ReferenceError: $ is not defined
+JavaScript warning: https://a2oj.com/jquery.autocomplete.js, line 460: unreachable code after return statement
+JavaScript error: https://a2oj.com/jquery.tablesorter.js, line 852: ReferenceError: jQuery is not defined
+JavaScript error: https://a2oj.com/ladder?ID=14, line 136: ReferenceError: $ is not defined
+Exiting due to channel error.
+Exiting due to channel error.
+[Child 3262, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-hE9N0Y/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+Exiting due to channel error.
+1576846686481	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileMf1R1K"
+1576846686806	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1576846686806	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1576846686806	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1576846686807	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1576846688164	Marionette	INFO	Listening on port 34661
+1576846688189	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://a2oj.com/jquery.autocomplete.js, line 460: unreachable code after return statement
+JavaScript error: https://a2oj.com/jquery.tablesorter.js, line 852: ReferenceError: jQuery is not defined
+JavaScript error: https://a2oj.com/ladder?ID=11, line 136: ReferenceError: $ is not defined
+JavaScript warning: https://a2oj.com/jquery.autocomplete.js, line 460: unreachable code after return statement
+Exiting due to channel error.
+[Child 3521, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-hE9N0Y/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+Exiting due to channel error.
+Exiting due to channel error.
+1576846729416	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilep0fQK1"
+1576846729742	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1576846729742	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1576846729742	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1576846729742	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1576846731076	Marionette	INFO	Listening on port 39071
+1576846731122	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://a2oj.com/jquery.tablesorter.js, line 852: ReferenceError: jQuery is not defined
+JavaScript error: https://a2oj.com/ladder?ID=11, line 136: ReferenceError: $ is not defined
+JavaScript warning: https://a2oj.com/jquery.autocomplete.js, line 460: unreachable code after return statement
+JavaScript error: https://a2oj.com/jquery.tablesorter.js, line 852: ReferenceError: jQuery is not defined
+JavaScript error: https://a2oj.com/ladder?ID=12, line 136: ReferenceError: $ is not defined
+JavaScript warning: https://a2oj.com/jquery.autocomplete.js, line 460: unreachable code after return statement
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1576846810145	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileZ05Wtj"
+1576846810468	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1576846810468	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1576846810468	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1576846810468	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1576846811798	Marionette	INFO	Listening on port 42715
+1576846811850	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://a2oj.com/jquery.autocomplete.js, line 460: unreachable code after return statement
+JavaScript error: https://a2oj.com/jquery.tablesorter.js, line 852: ReferenceError: jQuery is not defined
+JavaScript error: https://a2oj.com/ladder?ID=11, line 136: ReferenceError: $ is not defined
+JavaScript warning: https://a2oj.com/jquery.autocomplete.js, line 460: unreachable code after return statement
+JavaScript error: https://a2oj.com/jquery.tablesorter.js, line 852: ReferenceError: jQuery is not defined
+JavaScript error: https://a2oj.com/ladder?ID=12, line 136: ReferenceError: $ is not defined
+JavaScript warning: https://a2oj.com/jquery.autocomplete.js, line 460: unreachable code after return statement
+JavaScript error: https://a2oj.com/jquery.tablesorter.js, line 852: ReferenceError: jQuery is not defined
+JavaScript error: https://a2oj.com/ladder?ID=13, line 136: ReferenceError: $ is not defined
+JavaScript warning: https://a2oj.com/jquery.autocomplete.js, line 460: unreachable code after return statement
+JavaScript error: https://a2oj.com/jquery.tablesorter.js, line 852: ReferenceError: jQuery is not defined
+JavaScript error: https://a2oj.com/ladder?ID=14, line 136: ReferenceError: $ is not defined
+JavaScript error: https://a2oj.com/jquery.tablesorter.js, line 852: ReferenceError: jQuery is not defined
+JavaScript error: https://a2oj.com/ladder?ID=15, line 136: ReferenceError: $ is not defined
+JavaScript error: https://a2oj.com/jquery.tablesorter.js, line 852: ReferenceError: jQuery is not defined
+JavaScript error: https://a2oj.com/ladder?ID=16, line 136: ReferenceError: $ is not defined
+JavaScript error: https://a2oj.com/jquery.tablesorter.js, line 852: ReferenceError: jQuery is not defined
+JavaScript error: https://a2oj.com/ladder?ID=17, line 136: ReferenceError: $ is not defined
+JavaScript error: https://a2oj.com/jquery.tablesorter.js, line 852: ReferenceError: jQuery is not defined
+JavaScript error: https://a2oj.com/ladder?ID=18, line 136: ReferenceError: $ is not defined
+JavaScript error: https://a2oj.com/jquery.tablesorter.js, line 852: ReferenceError: jQuery is not defined
+JavaScript error: https://a2oj.com/ladder?ID=19, line 136: ReferenceError: $ is not defined
+JavaScript error: https://a2oj.com/jquery.tablesorter.js, line 852: ReferenceError: jQuery is not defined
+JavaScript error: https://a2oj.com/ladder?ID=20, line 136: ReferenceError: $ is not defined
+JavaScript error: https://a2oj.com/jquery.tablesorter.js, line 852: ReferenceError: jQuery is not defined
+JavaScript error: https://a2oj.com/ladder?ID=21, line 136: ReferenceError: $ is not defined
+JavaScript error: https://a2oj.com/jquery.tablesorter.js, line 852: ReferenceError: jQuery is not defined
+JavaScript error: https://a2oj.com/ladder?ID=22, line 136: ReferenceError: $ is not defined
+JavaScript error: https://a2oj.com/jquery.tablesorter.js, line 852: ReferenceError: jQuery is not defined
+JavaScript error: https://a2oj.com/ladder?ID=23, line 136: ReferenceError: $ is not defined
+JavaScript error: https://a2oj.com/jquery.tablesorter.js, line 852: ReferenceError: jQuery is not defined
+JavaScript error: https://a2oj.com/ladder?ID=24, line 136: ReferenceError: $ is not defined
+JavaScript error: https://a2oj.com/jquery.tablesorter.js, line 852: ReferenceError: jQuery is not defined
+JavaScript error: https://a2oj.com/ladder?ID=25, line 136: ReferenceError: $ is not defined
+JavaScript error: https://a2oj.com/jquery.tablesorter.js, line 852: ReferenceError: jQuery is not defined
+JavaScript error: https://a2oj.com/ladder?ID=26, line 136: ReferenceError: $ is not defined
+JavaScript error: https://a2oj.com/jquery.tablesorter.js, line 852: ReferenceError: jQuery is not defined
+JavaScript error: https://a2oj.com/ladder?ID=27, line 136: ReferenceError: $ is not defined
+JavaScript error: https://a2oj.com/jquery.tablesorter.js, line 852: ReferenceError: jQuery is not defined
+JavaScript error: https://a2oj.com/ladder?ID=28, line 136: ReferenceError: $ is not defined
+JavaScript error: https://a2oj.com/jquery.tablesorter.js, line 852: ReferenceError: jQuery is not defined
+JavaScript error: https://a2oj.com/ladder?ID=29, line 136: ReferenceError: $ is not defined
+JavaScript error: https://a2oj.com/jquery.tablesorter.js, line 852: ReferenceError: jQuery is not defined
+JavaScript error: https://a2oj.com/ladder?ID=30, line 136: ReferenceError: $ is not defined
+JavaScript error: https://a2oj.com/jquery.tablesorter.js, line 852: ReferenceError: jQuery is not defined
+JavaScript error: https://a2oj.com/ladder?ID=31, line 136: ReferenceError: $ is not defined
+JavaScript error: https://a2oj.com/jquery.tablesorter.js, line 852: ReferenceError: jQuery is not defined
+JavaScript error: https://a2oj.com/ladder?ID=32, line 136: ReferenceError: $ is not defined
+1576847199881	Marionette	INFO	Stopped listening on port 42715
+[Parent 4354, Gecko_IOThread] WARNING: pipe error (76): Connection reset by peer: file /build/firefox-hE9N0Y/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+1576849125153	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileF78whs"
+1576849125478	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1576849125478	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1576849125478	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1576849125479	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1576849126735	Marionette	INFO	Listening on port 40401
+1576849126762	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://a2oj.com/jquery.autocomplete.js, line 460: unreachable code after return statement
+JavaScript error: https://a2oj.com/jquery.tablesorter.js, line 852: ReferenceError: jQuery is not defined
+JavaScript error: https://a2oj.com/ladder?ID=11, line 136: ReferenceError: $ is not defined
+JavaScript warning: https://a2oj.com/jquery.autocomplete.js, line 460: unreachable code after return statement
+JavaScript error: https://a2oj.com/jquery.tablesorter.js, line 852: ReferenceError: jQuery is not defined
+JavaScript error: https://a2oj.com/ladder?ID=12, line 136: ReferenceError: $ is not defined
+JavaScript warning: https://a2oj.com/jquery.autocomplete.js, line 460: unreachable code after return statement
+JavaScript error: https://a2oj.com/jquery.tablesorter.js, line 852: ReferenceError: jQuery is not defined
+JavaScript error: https://a2oj.com/ladder?ID=13, line 136: ReferenceError: $ is not defined
+JavaScript warning: https://a2oj.com/jquery.autocomplete.js, line 460: unreachable code after return statement
+JavaScript error: https://a2oj.com/jquery.tablesorter.js, line 852: ReferenceError: jQuery is not defined
+JavaScript error: https://a2oj.com/ladder?ID=14, line 136: ReferenceError: $ is not defined
+JavaScript error: https://a2oj.com/jquery.tablesorter.js, line 852: ReferenceError: jQuery is not defined
+JavaScript error: https://a2oj.com/ladder?ID=15, line 136: ReferenceError: $ is not defined
+JavaScript error: https://a2oj.com/jquery.tablesorter.js, line 852: ReferenceError: jQuery is not defined
+JavaScript error: https://a2oj.com/ladder?ID=16, line 136: ReferenceError: $ is not defined
+JavaScript error: https://a2oj.com/jquery.tablesorter.js, line 852: ReferenceError: jQuery is not defined
+JavaScript error: https://a2oj.com/ladder?ID=17, line 136: ReferenceError: $ is not defined
+JavaScript error: https://a2oj.com/jquery.tablesorter.js, line 852: ReferenceError: jQuery is not defined
+JavaScript error: https://a2oj.com/ladder?ID=18, line 136: ReferenceError: $ is not defined
+JavaScript error: https://a2oj.com/jquery.tablesorter.js, line 852: ReferenceError: jQuery is not defined
+JavaScript error: https://a2oj.com/ladder?ID=19, line 136: ReferenceError: $ is not defined
+JavaScript error: https://a2oj.com/jquery.tablesorter.js, line 852: ReferenceError: jQuery is not defined
+JavaScript error: https://a2oj.com/ladder?ID=20, line 136: ReferenceError: $ is not defined
+JavaScript error: https://a2oj.com/jquery.tablesorter.js, line 852: ReferenceError: jQuery is not defined
+JavaScript error: https://a2oj.com/ladder?ID=21, line 136: ReferenceError: $ is not defined
+JavaScript error: https://a2oj.com/jquery.tablesorter.js, line 852: ReferenceError: jQuery is not defined
+JavaScript error: https://a2oj.com/ladder?ID=22, line 136: ReferenceError: $ is not defined
+JavaScript error: https://a2oj.com/jquery.tablesorter.js, line 852: ReferenceError: jQuery is not defined
+JavaScript error: https://a2oj.com/ladder?ID=23, line 136: ReferenceError: $ is not defined
+JavaScript error: https://a2oj.com/jquery.tablesorter.js, line 852: ReferenceError: jQuery is not defined
+JavaScript error: https://a2oj.com/ladder?ID=24, line 136: ReferenceError: $ is not defined
+JavaScript error: https://a2oj.com/jquery.tablesorter.js, line 852: ReferenceError: jQuery is not defined
+JavaScript error: https://a2oj.com/ladder?ID=25, line 136: ReferenceError: $ is not defined
+JavaScript error: https://a2oj.com/jquery.tablesorter.js, line 852: ReferenceError: jQuery is not defined
+JavaScript error: https://a2oj.com/ladder?ID=26, line 136: ReferenceError: $ is not defined
+JavaScript error: https://a2oj.com/jquery.tablesorter.js, line 852: ReferenceError: jQuery is not defined
+JavaScript error: https://a2oj.com/ladder?ID=27, line 136: ReferenceError: $ is not defined
+JavaScript error: https://a2oj.com/jquery.tablesorter.js, line 852: ReferenceError: jQuery is not defined
+JavaScript error: https://a2oj.com/ladder?ID=28, line 136: ReferenceError: $ is not defined
+JavaScript error: https://a2oj.com/jquery.tablesorter.js, line 852: ReferenceError: jQuery is not defined
+JavaScript error: https://a2oj.com/ladder?ID=29, line 136: ReferenceError: $ is not defined
+JavaScript error: https://a2oj.com/jquery.tablesorter.js, line 852: ReferenceError: jQuery is not defined
+JavaScript error: https://a2oj.com/ladder?ID=30, line 136: ReferenceError: $ is not defined
+JavaScript error: https://a2oj.com/jquery.tablesorter.js, line 852: ReferenceError: jQuery is not defined
+JavaScript error: https://a2oj.com/ladder?ID=31, line 136: ReferenceError: $ is not defined
+JavaScript error: https://a2oj.com/jquery.tablesorter.js, line 852: ReferenceError: jQuery is not defined
+JavaScript error: https://a2oj.com/ladder?ID=32, line 136: ReferenceError: $ is not defined
+1576849526480	Marionette	INFO	Stopped listening on port 40401
+[Parent 6136, Gecko_IOThread] WARNING: pipe error (76): Connection reset by peer: file /build/firefox-hE9N0Y/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+1576850616161	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiledrnwEi"
+1576850616474	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1576850616474	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1576850616474	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1576850616474	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1576850617773	Marionette	INFO	Listening on port 37611
+1576850617871	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://a2oj.com/jquery.autocomplete.js, line 460: unreachable code after return statement
+1576850627769	Marionette	INFO	Stopped listening on port 37611
+1576850703980	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilexUzvO0"
+1576850704284	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1576850704284	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1576850704284	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1576850704285	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1576850705642	Marionette	INFO	Listening on port 43585
+1576850705686	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://a2oj.com/jquery.autocomplete.js, line 460: unreachable code after return statement
+1576850716728	Marionette	INFO	Stopped listening on port 43585
+1576850746250	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilep4Zev6"
+1576850746560	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1576850746560	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1576850746560	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1576850746560	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1576850747854	Marionette	INFO	Listening on port 43861
+1576850747960	Marionette	WARN	TLS certificate errors will be ignored for this session
+1576850757457	Marionette	INFO	Stopped listening on port 43861
+1576850792918	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileUn7wMI"
+1576850793239	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1576850793240	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1576850793240	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1576850793240	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1576850794479	Marionette	INFO	Listening on port 46365
+1576850794523	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://a2oj.com/jquery.tablesorter.js, line 852: ReferenceError: jQuery is not defined
+JavaScript error: https://a2oj.com/ladder?ID=11, line 136: ReferenceError: $ is not defined
+JavaScript warning: https://a2oj.com/jquery.autocomplete.js, line 460: unreachable code after return statement
+1576850814495	Marionette	INFO	Stopped listening on port 46365
+1576850924161	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilekjlYwv"
+1576850924496	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1576850924496	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1576850924496	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1576850924496	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1576850925746	Marionette	INFO	Listening on port 44049
+1576850925767	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://a2oj.com/jquery.tablesorter.js, line 852: ReferenceError: jQuery is not defined
+JavaScript error: https://a2oj.com/ladder?ID=11, line 136: ReferenceError: $ is not defined
+JavaScript warning: https://a2oj.com/jquery.autocomplete.js, line 460: unreachable code after return statement
+1576850951563	Marionette	INFO	Stopped listening on port 44049
+1576850980568	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileIviS0G"
+1576850980876	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1576850980876	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1576850980876	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1576850980876	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1576850982168	Marionette	INFO	Listening on port 34333
+1576850982176	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://a2oj.com/jquery.tablesorter.js, line 852: ReferenceError: jQuery is not defined
+JavaScript error: https://a2oj.com/ladder?ID=11, line 136: ReferenceError: $ is not defined
+JavaScript warning: https://a2oj.com/jquery.autocomplete.js, line 460: unreachable code after return statement
+1576851004263	Marionette	INFO	Stopped listening on port 34333
+1576851335466	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilelXU5iP"
+1576851335784	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1576851335785	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1576851335785	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1576851335785	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1576851337070	Marionette	INFO	Listening on port 38727
+1576851337076	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://a2oj.com/jquery.tablesorter.js, line 852: ReferenceError: jQuery is not defined
+JavaScript error: https://a2oj.com/ladder?ID=11, line 136: ReferenceError: $ is not defined
+JavaScript warning: https://a2oj.com/jquery.autocomplete.js, line 460: unreachable code after return statement
+JavaScript error: https://a2oj.com/jquery.tablesorter.js, line 852: ReferenceError: jQuery is not defined
+JavaScript error: https://a2oj.com/ladder?ID=12, line 136: ReferenceError: $ is not defined
+JavaScript warning: https://a2oj.com/jquery.autocomplete.js, line 460: unreachable code after return statement
+JavaScript error: https://a2oj.com/jquery.tablesorter.js, line 852: ReferenceError: jQuery is not defined
+JavaScript error: https://a2oj.com/ladder?ID=13, line 136: ReferenceError: $ is not defined
+JavaScript warning: https://a2oj.com/jquery.autocomplete.js, line 460: unreachable code after return statement
+JavaScript error: https://a2oj.com/jquery.tablesorter.js, line 852: ReferenceError: jQuery is not defined
+JavaScript error: https://a2oj.com/ladder?ID=14, line 136: ReferenceError: $ is not defined
+JavaScript error: https://a2oj.com/jquery.tablesorter.js, line 852: ReferenceError: jQuery is not defined
+JavaScript error: https://a2oj.com/ladder?ID=15, line 136: ReferenceError: $ is not defined
+JavaScript error: https://a2oj.com/jquery.tablesorter.js, line 852: ReferenceError: jQuery is not defined
+JavaScript error: https://a2oj.com/ladder?ID=16, line 136: ReferenceError: $ is not defined
+JavaScript error: https://a2oj.com/jquery.tablesorter.js, line 852: ReferenceError: jQuery is not defined
+JavaScript error: https://a2oj.com/ladder?ID=17, line 136: ReferenceError: $ is not defined
+JavaScript error: https://a2oj.com/jquery.tablesorter.js, line 852: ReferenceError: jQuery is not defined
+JavaScript error: https://a2oj.com/ladder?ID=18, line 136: ReferenceError: $ is not defined
+JavaScript error: https://a2oj.com/jquery.tablesorter.js, line 852: ReferenceError: jQuery is not defined
+JavaScript error: https://a2oj.com/ladder?ID=19, line 136: ReferenceError: $ is not defined
+JavaScript error: https://a2oj.com/jquery.tablesorter.js, line 852: ReferenceError: jQuery is not defined
+JavaScript error: https://a2oj.com/ladder?ID=20, line 136: ReferenceError: $ is not defined
+JavaScript error: https://a2oj.com/jquery.tablesorter.js, line 852: ReferenceError: jQuery is not defined
+JavaScript error: https://a2oj.com/ladder?ID=21, line 136: ReferenceError: $ is not defined
+JavaScript error: https://a2oj.com/jquery.tablesorter.js, line 852: ReferenceError: jQuery is not defined
+JavaScript error: https://a2oj.com/ladder?ID=22, line 136: ReferenceError: $ is not defined
+JavaScript error: https://a2oj.com/jquery.tablesorter.js, line 852: ReferenceError: jQuery is not defined
+JavaScript error: https://a2oj.com/ladder?ID=23, line 136: ReferenceError: $ is not defined
+JavaScript error: https://a2oj.com/jquery.tablesorter.js, line 852: ReferenceError: jQuery is not defined
+JavaScript error: https://a2oj.com/ladder?ID=24, line 136: ReferenceError: $ is not defined
+JavaScript error: https://a2oj.com/jquery.tablesorter.js, line 852: ReferenceError: jQuery is not defined
+JavaScript error: https://a2oj.com/ladder?ID=25, line 136: ReferenceError: $ is not defined
+JavaScript error: https://a2oj.com/jquery.tablesorter.js, line 852: ReferenceError: jQuery is not defined
+JavaScript error: https://a2oj.com/ladder?ID=26, line 136: ReferenceError: $ is not defined
+JavaScript error: https://a2oj.com/jquery.tablesorter.js, line 852: ReferenceError: jQuery is not defined
+JavaScript error: https://a2oj.com/ladder?ID=27, line 136: ReferenceError: $ is not defined
+JavaScript error: https://a2oj.com/jquery.tablesorter.js, line 852: ReferenceError: jQuery is not defined
+JavaScript error: https://a2oj.com/ladder?ID=28, line 136: ReferenceError: $ is not defined
+JavaScript error: https://a2oj.com/jquery.tablesorter.js, line 852: ReferenceError: jQuery is not defined
+JavaScript error: https://a2oj.com/ladder?ID=29, line 136: ReferenceError: $ is not defined
+JavaScript error: https://a2oj.com/jquery.bgiframe.min.js, line 10: ReferenceError: jQuery is not defined
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1576851774871	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile8btpxe"
+1576851775220	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1576851775220	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1576851775220	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1576851775220	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1576851776624	Marionette	INFO	Listening on port 42541
+1576851776737	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://a2oj.com/jquery.tablesorter.js, line 852: ReferenceError: jQuery is not defined
+JavaScript error: https://a2oj.com/ladder?ID=11, line 136: ReferenceError: $ is not defined
+JavaScript warning: https://a2oj.com/jquery.autocomplete.js, line 460: unreachable code after return statement
+JavaScript error: https://a2oj.com/jquery.tablesorter.js, line 852: ReferenceError: jQuery is not defined
+JavaScript error: https://a2oj.com/ladder?ID=12, line 136: ReferenceError: $ is not defined
+JavaScript warning: https://a2oj.com/jquery.autocomplete.js, line 460: unreachable code after return statement
+JavaScript error: https://a2oj.com/jquery.tablesorter.js, line 852: ReferenceError: jQuery is not defined
+JavaScript error: https://a2oj.com/ladder?ID=13, line 136: ReferenceError: $ is not defined
+JavaScript warning: https://a2oj.com/jquery.autocomplete.js, line 460: unreachable code after return statement
+JavaScript error: https://a2oj.com/jquery.tablesorter.js, line 852: ReferenceError: jQuery is not defined
+JavaScript error: https://a2oj.com/ladder?ID=14, line 136: ReferenceError: $ is not defined
+JavaScript warning: https://a2oj.com/jquery.autocomplete.js, line 460: unreachable code after return statement
+JavaScript error: https://a2oj.com/jquery.tablesorter.js, line 852: ReferenceError: jQuery is not defined
+JavaScript error: https://a2oj.com/ladder?ID=15, line 136: ReferenceError: $ is not defined
+JavaScript error: https://a2oj.com/jquery.tablesorter.js, line 852: ReferenceError: jQuery is not defined
+JavaScript error: https://a2oj.com/ladder?ID=16, line 136: ReferenceError: $ is not defined
+JavaScript error: https://a2oj.com/jquery.tablesorter.js, line 852: ReferenceError: jQuery is not defined
+JavaScript error: https://a2oj.com/ladder?ID=17, line 136: ReferenceError: $ is not defined
+JavaScript error: https://a2oj.com/jquery.tablesorter.js, line 852: ReferenceError: jQuery is not defined
+JavaScript error: https://a2oj.com/ladder?ID=18, line 136: ReferenceError: $ is not defined
+JavaScript error: https://a2oj.com/jquery.tablesorter.js, line 852: ReferenceError: jQuery is not defined
+JavaScript error: https://a2oj.com/ladder?ID=19, line 136: ReferenceError: $ is not defined
+JavaScript error: https://a2oj.com/jquery.tablesorter.js, line 852: ReferenceError: jQuery is not defined
+JavaScript error: https://a2oj.com/ladder?ID=20, line 136: ReferenceError: $ is not defined
+JavaScript error: https://a2oj.com/jquery.tablesorter.js, line 852: ReferenceError: jQuery is not defined
+JavaScript error: https://a2oj.com/ladder?ID=21, line 136: ReferenceError: $ is not defined
+JavaScript error: https://a2oj.com/jquery.tablesorter.js, line 852: ReferenceError: jQuery is not defined
+JavaScript error: https://a2oj.com/ladder?ID=22, line 136: ReferenceError: $ is not defined
+JavaScript error: https://a2oj.com/jquery.tablesorter.js, line 852: ReferenceError: jQuery is not defined
+JavaScript error: https://a2oj.com/ladder?ID=23, line 136: ReferenceError: $ is not defined
+JavaScript error: https://a2oj.com/jquery.tablesorter.js, line 852: ReferenceError: jQuery is not defined
+JavaScript error: https://a2oj.com/ladder?ID=24, line 136: ReferenceError: $ is not defined
+JavaScript error: https://a2oj.com/jquery.tablesorter.js, line 852: ReferenceError: jQuery is not defined
+JavaScript error: https://a2oj.com/ladder?ID=25, line 136: ReferenceError: $ is not defined
+JavaScript error: https://a2oj.com/jquery.tablesorter.js, line 852: ReferenceError: jQuery is not defined
+JavaScript error: https://a2oj.com/ladder?ID=26, line 136: ReferenceError: $ is not defined
+JavaScript error: https://a2oj.com/jquery.tablesorter.js, line 852: ReferenceError: jQuery is not defined
+JavaScript error: https://a2oj.com/ladder?ID=27, line 136: ReferenceError: $ is not defined
+JavaScript error: https://a2oj.com/jquery.tablesorter.js, line 852: ReferenceError: jQuery is not defined
+JavaScript error: https://a2oj.com/ladder?ID=28, line 136: ReferenceError: $ is not defined
+JavaScript error: https://a2oj.com/jquery.tablesorter.js, line 852: ReferenceError: jQuery is not defined
+JavaScript error: https://a2oj.com/ladder?ID=29, line 136: ReferenceError: $ is not defined
+JavaScript error: https://a2oj.com/jquery.tablesorter.js, line 852: ReferenceError: jQuery is not defined
+JavaScript error: https://a2oj.com/ladder?ID=30, line 136: ReferenceError: $ is not defined
+JavaScript error: https://a2oj.com/jquery.tablesorter.js, line 852: ReferenceError: jQuery is not defined
+JavaScript error: https://a2oj.com/ladder?ID=31, line 136: ReferenceError: $ is not defined
+JavaScript error: https://a2oj.com/jquery.tablesorter.js, line 852: ReferenceError: jQuery is not defined
+JavaScript error: https://a2oj.com/ladder?ID=32, line 136: ReferenceError: $ is not defined
+1576852184267	Marionette	INFO	Stopped listening on port 42541
+[Parent 11007, Gecko_IOThread] WARNING: pipe error (76): Connection reset by peer: file /build/firefox-hE9N0Y/firefox-70.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+1576858467363	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileOtTIF7"
+1576858467690	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1576858467690	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1576858467690	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1576858467690	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1576858469010	Marionette	INFO	Listening on port 42333
+1576858469078	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://a2oj.com/jquery.autocomplete.js, line 460: unreachable code after return statement
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
